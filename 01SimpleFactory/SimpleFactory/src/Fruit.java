@@ -1,7 +1,7 @@
 
 public interface Fruit {
 	/*
-	 * ²É¼¯
+	 * é‡‡é›†
 	 */
 	public void get();
 }
